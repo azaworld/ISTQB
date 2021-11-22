@@ -1,4 +1,4 @@
-# ISTQB 
+# ISTQB Prep Note by AZA
 
 ## Day !
 
