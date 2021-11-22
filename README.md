@@ -18,3 +18,16 @@
 > **Fault**:An incorrect step, process or data definition in a computer program that causes the program to perform in an unintended or unanticipated manner.
 
 **Exhaustive testing is a test approach in which all possible data combinations are used for testing.**
+
+
+## Causes of software defects ##
+ 
+- Miscommunication of requirements introduces error in code
+- Unrealistic time schedule for development
+- Lack of designing experience
+- Lack of coding practices experience
+- Human factors introduces errors in code
+- Lack of version control
+- Buggy third-party tools
+- Last minute changes in the requirement introduce error
+- Poor Software testing skill
