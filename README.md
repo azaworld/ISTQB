@@ -7,10 +7,12 @@
     >...Security etc..
     
 ## Defect, Error, Bug, Failure and Fault!
-> The defect is an error found AFTER the application goes into production.
+> The **defect** is an error found AFTER the application goes into production.
 
->An error is a mistake, misconception, or misunderstanding on the part of a software developer.
+>An **error** is a mistake, misconception, or misunderstanding on the part of a software developer.
 
->A bug is the result of a coding error. 
+>A **bug** is the result of a coding error. 
 
 >Error can be any mistake or can be an expected error when you are not giving correct input. But bug is when output deviates from expected result
+
+> **Fault**:An incorrect step, process or data definition in a computer program that causes the program to perform in an unintended or unanticipated manner.
