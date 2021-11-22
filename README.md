@@ -31,3 +31,40 @@
 - Buggy third-party tools
 - Last minute changes in the requirement introduce error
 - Poor Software testing skill
+
+> Validation is the process of evaluating the final product to check whether the software meets the customer expectations and requirements.
+
+> Verification is to check whether the software conforms to specifications.
+
+> Validation is the process of checking whether the specification captures the customer's needs. “Did I build what I said I would?”
+
+> Verification is the process of checking that the software meets the specification.  “Did I build what I need?”
+
+## How much testing is enough? when to stop?
+
+- 100% Requirements coverage is achieved.
+- Defined / Desired Defect count is reached.
+- All Show Stopper defects or Blockers are fixed and No known Critical / Severity 1 defect is in Open Status.
+- All High Priority defects are identified and fixed.
+- Very few Medium Priority defects are open and have a workaround in place.
+- Very few low priority open defects that do not impact software usage.
+- Test Coverage should be 95% achieved.
+- Test case Pass Rate should be 95%. 
+- All critical Test cases are passed.
+- 5% Test cases can be failed but the Failed Test cases are of low priority.
+- Complete Functional Coverage is achieved.
+
+## Pls ask your self then : 
+
+
+-  Are all test cases executed at least once?
+-  Is the Test Case Pass rate as defined?
+-  Is complete test coverage achieved?
+- Are all functional / Business flows executed at least once?
+- Is the decided defect count reached?
+-  Are all Major High Priority Defects fixed and closed?
+- Have all Defects been Retested and closed?
+- Has Regression been done for all open defects?
+-  Have you exhausted the testing budget?
+- Has the Testing end time reached?
+-  Are all Test Deliverables reviewed and published?
