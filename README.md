@@ -16,3 +16,5 @@
 >Error can be any mistake or can be an expected error when you are not giving correct input. But bug is when output deviates from expected result
 
 > **Fault**:An incorrect step, process or data definition in a computer program that causes the program to perform in an unintended or unanticipated manner.
+
+**Exhaustive testing is a test approach in which all possible data combinations are used for testing.**
