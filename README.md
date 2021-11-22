@@ -1,4 +1,6 @@
-# ISTQB
+# ISTQB 
+
+## Day !
 
 ##  Why testing is so important in software development?
     >...to find errors, gaps, or missing requirements in comparison to the actual requirements. 
@@ -54,7 +56,7 @@
 - 5% Test cases can be failed but the Failed Test cases are of low priority.
 - Complete Functional Coverage is achieved.
 
-## Pls ask your self then : 
+## Pls ask your-self then : hihi
 
 
 -  Are all test cases executed at least once?
