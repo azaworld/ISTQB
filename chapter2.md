@@ -7,3 +7,8 @@
 
 ***Explain Accepatance testing,System testing, component testing***
 
+***Discuss about types of Testing***
+***what is non-functional testing***
+***what is functional testing***
+***how can a software be Maintained***
+
